@@ -1,16 +1,14 @@
+$*
+*.pkl
+*.pickle
+*.rdf
+.*/
+LCMSMS_Pred_Supplemental_Material_section_S6
+RT_STUDY/**/*.tsv
+RT_STUDY/**/*.xlsx
 Stats/models/*
 Stats/celery.sqlite
 Stats/django-errors.log
 Stats/MLP.ipynb
 Stats/XGBoost.ipynb
-$*
-Stats/pics
-Rapport Mensuelle
-RT_STUDY/chronologer
-RT_STUDY/*.tsv
-*.pkl
-*.pickle
-*.rdf
-RT_STUDY/datasets/hfx_ion_pairs.tsv
-.*/
-LCMSMS_Pred_Supplemental_Material_section_S6
+Stats/picsgit 
