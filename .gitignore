@@ -1,0 +1,13 @@
+Stats/models/*
+Stats/celery.sqlite
+Stats/django-errors.log
+Stats/MLP.ipynb
+Stats/XGBoost.ipynb
+$*
+Stats/pics
+RT_STUDY
+Rapport Mensuelle
+*.pkl
+*.pickle
+*.rdf
+RT_STUDY/datasets/hfx_ion_pairs.tsv
