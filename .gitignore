@@ -5,9 +5,12 @@ Stats/MLP.ipynb
 Stats/XGBoost.ipynb
 $*
 Stats/pics
-RT_STUDY
 Rapport Mensuelle
+RT_STUDY/chronologer
+RT_STUDY/*.tsv
 *.pkl
 *.pickle
 *.rdf
 RT_STUDY/datasets/hfx_ion_pairs.tsv
+.*/
+LCMSMS_Pred_Supplemental_Material_section_S6
